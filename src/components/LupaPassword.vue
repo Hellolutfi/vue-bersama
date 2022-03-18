@@ -7,3 +7,8 @@
     <button>Ganti Password</button>
   </div>
 </template>
+<script>
+export default {
+  name: "LupaPassword",
+};
+</script>
