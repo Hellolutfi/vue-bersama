@@ -1,4 +1,4 @@
-# belajar-vue
+# belajar-vuejs
 
 ## Project setup
 ```
